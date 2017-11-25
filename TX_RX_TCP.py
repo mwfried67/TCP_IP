@@ -3,7 +3,7 @@
 import socket
 
 
-TCP_IP = '127.0.0.1'
+TCP_IP = '192.168.1.116' #This is the name of the CLIENT. Not this computer.
 TCP_PORT = 5005
 BUFFER_SIZE = 1024
 MESSAGE = "Hello, World!"
